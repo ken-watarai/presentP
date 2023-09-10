@@ -7,7 +7,6 @@ body {
   height: 100vh;
   width: 100vw;
   position: relative;
-  background-color: aqua;
   background-image: url(img/oldtown_japan01.png);
 }
 body .picture_area {
